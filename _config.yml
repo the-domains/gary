@@ -1,14 +1,28 @@
-layout_spectrum: 0
-typography_spectrum: 0.3172043
-color:
-  saturation: 0.3189618
-  lightness: 0.1326378
-  brandStrength: 0.2765359
-  rhythmicContrast: 0.2533467
-  brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
 name: Gary
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.3172043
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#0b090a'
+    - '#5c4126'
+    - '#816651'
+    - '#b8b3af'
+  brandStrength: 0.25
+  lightness: 0.625
+  saturation: 0.25
+  rhythmicContrast: 0.25
+purpose: []
