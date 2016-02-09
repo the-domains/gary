@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Gary]]></title>
         <description><![CDATA[Gary]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gary/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 15:15:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 09 Feb 2016 13:15:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gary/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Look!  It's a blog?</p>]]></description>
-            <link>undefined7331570b-4da5-4db1-9b85-196c40c7dd04/index.html</link>
+            <title><![CDATA[First!]]></title>
+            <description><![CDATA[<article><h1>First!</h1><p>Look!  It's a blog?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a5a3aae90752430374e6627413cc665f44d8c90.jpg"></article>]]></description>
+            <link>https://thegrid.ai/gary/7331570b-4da5-4db1-9b85-196c40c7dd04/index.html</link>
             <guid isPermaLink="false">7331570b-4da5-4db1-9b85-196c40c7dd04</guid>
-            <pubDate>Mon, 01 Feb 2016 15:14:15 GMT</pubDate>
+            <pubDate>Tue, 09 Feb 2016 13:14:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
